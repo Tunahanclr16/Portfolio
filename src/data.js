@@ -40,7 +40,7 @@ import slider from "./assets/data/slider.png"
     },
     {
         id:5,
-        title:"Disney landing page", 
+        title:"Disney ", 
         image:disney,
         github:"https://github.com/Tunahanclr16/disney-landing-page-clone",
         live:"https://disney-clone-red-pi.vercel.app/"
