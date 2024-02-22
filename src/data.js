@@ -43,7 +43,7 @@ import slider from "./assets/data/slider.png"
         title:"Disney ", 
         image:disney,
         github:"https://github.com/Tunahanclr16/disney-landing-page-clone",
-        live:"https://disney-clone-eight-orcin.vercel.app/signup"
+        live:"https://disney-clone-eight-orcin.vercel.app"
     },
     {
         id:6,
