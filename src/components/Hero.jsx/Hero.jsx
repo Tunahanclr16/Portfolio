@@ -42,7 +42,7 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, delay: 1.1 }}
           >
-         Hello, I'm Tunahan, a 17-year-old from Bursa, Turkey, who has a keen interest in front-end development. Over the past year and a half, I've delved into the world of coding, exploring the nuances of web development and continuously striving to enhance my expertise in the field. My journey into programming started with a simple curiosity, which has since blossomed into a profound passion. I derive immense satisfaction from transforming designs into interactive digital experiences through code, and I am committed to refining my skills to craft meaningful and visually captivating online interfaces.
+         Hello, I'm Tunahan, a 18-year-old from Bursa, Turkey, who has a keen interest in front-end development. Over the past year and a half, I've delved into the world of coding, exploring the nuances of web development and continuously striving to enhance my expertise in the field. My journey into programming started with a simple curiosity, which has since blossomed into a profound passion. I derive immense satisfaction from transforming designs into interactive digital experiences through code, and I am committed to refining my skills to craft meaningful and visually captivating online interfaces.
           </motion.p>
           <motion.div
             className="flex gap-2 items-center"
