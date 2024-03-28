@@ -40,7 +40,7 @@ export default function Modal({ modal, setModal }) {
                 </div>
                 <p className="mt-4">{language === 'en' ? 'Hello, due to a temporary problem in my github account, I transferred some of the projects to this github account, you can review the account by clicking the button.' : 'merhaba github hesabımda bulunan geçici problemden dolayı projelerin bir kısmını bu github hesabına aktardım hesabı butona tıklayarak inceleyebilirsiniz.'}</p>
                 <Link
-                    to={"https://github.com/Tunahanclr"}
+                    to={"https://github.com/Tunahanclr16"}
                     className="bg-[#413A4F]  text-white text-[16px] gap-2 flex items-center justify-center mt-[20px] rounded-md h-[56px] w-[160px]"
                 >
                     <FaGithub color="white" size={24} />

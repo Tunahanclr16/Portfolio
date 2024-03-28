@@ -53,7 +53,6 @@ export default function Hero() {
             {" "}
             <Link
               onClick={modalFunc}
-              // to={"https://github.com/Tunahanclr"}
               className="bg-[#413A4F]  text-white text-[16px] gap-2 flex items-center justify-center mt-[20px] rounded-md h-[56px] w-[160px]"
             >
               <FaGithub color="white" size={24} />
