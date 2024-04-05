@@ -36,7 +36,7 @@ import slider from "./assets/data/slider.png"
         title:"Nextjs Landing Page", 
         image:terappin,
         github:"https://github.com/Tunahanclr16/nextjs-task?tab=readme-ov-file",
-        live:"https://nextjs-task-omega.vercel.app/"
+        live:"https://nextjs-task-fj2l.vercel.app/"
     },
     {
         id:5,
